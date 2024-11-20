@@ -13,7 +13,7 @@ Welcome to my personal portfolio website! I'm **Arpit Sarang**, a **Frontend Dev
 ### 📺 Demo
 
 You can view my live portfolio by visiting:  
-[**SaranG.teCh Portfolio**](https://your-live-portfolio-link.com)  
+[**SaranG.teCh Portfolio**](https://codemaverick-143.github.io/My-Portfolio/)
 (*Note: Replace this link with your actual live portfolio URL*)
 
 ### 📂 Project Sections
