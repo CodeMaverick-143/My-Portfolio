@@ -1,4 +1,4 @@
-# SaranG.teCh Portfolio 🚀
+se# SaranG.teCh Portfolio 🚀
 
 Welcome to my personal portfolio website! I'm **Arpit Sarang**, a **Frontend Developer** with a passion for building beautiful, interactive, and user-friendly websites. In this portfolio, you'll find some of my best works, skills, and a glimpse into my journey as a developer.
 
@@ -27,7 +27,7 @@ You can view my live portfolio by visiting:
 
 - **Responsive Design**: The portfolio is fully responsive, adapting to all screen sizes.
 - **Slick Animations**: Smooth animations for elements as you scroll.
-- **Interactive Design**: Hover effects and transitions to keep users engaged.........
+- **Interactive Design**: Hover effects and transitions to keep users engaged......
 
 
 
