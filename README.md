@@ -1,4 +1,4 @@
-se# SaranG.teCh Portfolio 🚀
+# SaranG.teCh Portfolio 🚀
 
 Welcome to my personal portfolio website! I'm **Arpit Sarang**, a **Frontend Developer** with a passion for building beautiful, interactive, and user-friendly websites. In this portfolio, you'll find some of my best works, skills, and a glimpse into my journey as a developer.
 
