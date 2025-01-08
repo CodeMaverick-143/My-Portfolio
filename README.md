@@ -27,6 +27,6 @@ You can view my live portfolio by visiting:
 
 - **Responsive Design**: The portfolio is fully responsive, adapting to all screen sizes.
 - **Slick Animations**: Smooth animations for elements as you scroll.
-- **Interactive Design**: Hover effects and transitions to keep users engaged.....
+- **Interactive Design**: Hover effects and transitions to keep users engaged....
 
 
