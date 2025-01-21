@@ -22,5 +22,11 @@
     "description": "A multi-page website for the software developer club named NST-SDC with user authentication and interactive features.",
     "features": [],
     "link": "https://nstsdc.vercel.app"
-  }
+  },
+   {
+    "title": "TimePass",
+    "description": "Responsive web application designed to display a collection of games,Built with TailwindCSS and JavaScript",
+    "features": [],
+    "link": "https://gaming-seven-lac.vercel.app"
+  },
 ]
