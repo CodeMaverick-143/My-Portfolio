@@ -1,18 +1,18 @@
 [
     {
       "name": "HTML",
-      "image": "assests/html.png"
+      "image": "assets/html.png"
     },
     {
       "name": "CSS",
-      "image": "assests/css.png"
+      "image": "assets/css.png"
     },
     {
       "name": "JavaScript",
-      "image": "assests/javascript.png"
+      "image": "assets/javascript.png"
     },
     {
       "name": "Python",
-      "image": "assests/python.png"
+      "image": "assets/python.png"
     }
   ]
