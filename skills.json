@@ -38,5 +38,21 @@
   {
     "name": "Express.js",
     "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
+  },
+  {
+    "name": "Kali Linux",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Kali_Linux_2.0_wordmark.svg/2560px-Kali_Linux_2.0_wordmark.svg.png"
+  },
+  {
+    "name": "Tailwind CSS",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+  },
+  {
+    "name": "Bash",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
+  },
+  {
+    "name": "Bootstrap",
+    "image": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
   }
 ]
