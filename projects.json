@@ -1,32 +1,52 @@
 [
   {
     "title": "Calculator",
-    "description": "A JavaScript-based calculator with advanced scientific operations and a sleek dark theme.",
-    "features": [],
+    "description": "A JavaScript-based calculator featuring advanced scientific operations and a sleek dark theme for enhanced usability.",
+    "features": [
+      "Basic arithmetic and advanced scientific calculations",
+      "User-friendly dark theme",
+      "Responsive design for mobile and desktop"
+    ],
     "link": "https://codemaverick-143.github.io/Calculator_project_2024_1st_year/"
   },
   {
     "title": "ToDo List App",
-    "description": "A simple and responsive ToDo List app built with HTML, CSS, and JavaScript. Organize tasks effortlessly.",
-    "features": [],
+    "description": "A simple yet responsive ToDo List app built with HTML, CSS, and JavaScript to help users organize tasks effortlessly.",
+    "features": [
+      "Add, edit, and delete tasks",
+      "Mobile-friendly responsive layout",
+      "Real-time task updates"
+    ],
     "link": "https://codemaverick-143.github.io/To-Do-List-1styear-2024/"
   },
   {
     "title": "Portfolio Website",
-    "description": "My Matrix-inspired portfolio with a responsive layout, featuring smooth navigation and glowing effects.",
-    "features": [],
+    "description": "A Matrix-inspired personal portfolio website with a responsive layout, smooth navigation, and glowing effects to showcase projects and skills.",
+    "features": [
+      "Responsive design with smooth scrolling",
+      "Interactive glowing effects and animations",
+      "Detailed project showcase and contact form"
+    ],
     "link": "https://sarangtechfoliopro.netlify.app"
   },
   {
     "title": "NST_SDC Website",
-    "description": "A multi-page website for the software developer club named NST-SDC with user authentication and interactive features.",
-    "features": [],
+    "description": "A multi-page website developed for the NST Software Developer Club, featuring user authentication, interactive elements, and a modern UI.",
+    "features": [
+      "User authentication for secure login and registration",
+      "Interactive features to engage club members",
+      "Modern and clean user interface"
+    ],
     "link": "https://nstsdc.vercel.app"
   },
-   {
+  {
     "title": "TimePass",
-    "description": "Responsive web application designed to display a collection of games,Built with TailwindCSS and JavaScript",
-    "features": [],
+    "description": "A responsive web application designed to display a collection of games, built using TailwindCSS and JavaScript.",
+    "features": [
+      "Wide collection of casual games",
+      "Responsive design for a seamless gaming experience",
+      "Built with modern web technologies: TailwindCSS and JavaScript"
+    ],
     "link": "https://gaming-seven-lac.vercel.app"
-  },
+  }
 ]
