@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Calculator",
+    "description": "A JavaScript-based calculator with advanced scientific operations and a sleek dark theme.",
+    "features": [],
+    "link": "https://codemaverick-143.github.io/Calculator_project_2024_1st_year/"
+  },
+  {
+    "title": "ToDo List App",
+    "description": "A simple and responsive ToDo List app built with HTML, CSS, and JavaScript. Organize tasks effortlessly.",
+    "features": [],
+    "link": "https://codemaverick-143.github.io/To-Do-List-1styear-2024/"
+  },
+  {
+    "title": "Portfolio Website",
+    "description": "My Matrix-inspired portfolio with a responsive layout, featuring smooth navigation and glowing effects.",
+    "features": [],
+    "link": "https://sarangtechfoliopro.netlify.app"
+  },
+  {
+    "title": "NST_SDC Website",
+    "description": "A multi-page website for the software developer club named NST-SDC with user authentication and interactive features.",
+    "features": [],
+    "link": "https://jade-marigold-88c01e.netlify.app"
+  }
+]
