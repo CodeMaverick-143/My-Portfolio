@@ -29,4 +29,4 @@ You can view my live portfolio by visiting:
 - **Slick Animations**: Smooth animations for elements as you scroll.
 - **Interactive Design**: Hover effects and transitions to keep users engaged.
 
-Feel free to provide any feedback or additional sections you would like to include.
+Feel free to provide any feedback or additional sections you would like to include....
